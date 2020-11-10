@@ -1,4 +1,4 @@
-# Weather Progressive Web Application
+# Progressive Weather Application(Web)
 ### [Live Site](https://abhijit-pwa-weatherapp.netlify.app/)
 
 ## Introduction
